@@ -139,11 +139,4 @@ This project demonstrates:
  - Reward shaping and convergence tracking
  - Visualization of intelligent agent behavior
 
------------------------------------------------------------
-LICENSE
------------------------------------------------------------
-This project is open-source for educational use.
-You may modify and share it for personal or academic purposes.
-Please credit the author if redistributing.
 
-===========================================================
