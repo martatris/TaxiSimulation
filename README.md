@@ -29,6 +29,7 @@ FEATURES
 - Adjustable episode length (max_steps)
 - Training visualization (reward curve)
 - Animation of the trained taxi behavior
+- Libraries: Gymnasium, PyTorch, Matplotlib, NumPy
 
 -----------------------------------------------------------
 INSTALLATION
@@ -121,12 +122,3 @@ This project demonstrates:
  - Custom Gymnasium environment design
  - Reward shaping and convergence tracking
  - Visualization of intelligent agent behavior
-
-
-Author: Triston Aloyssius Marta
-
-Language: Python 3.9
-
-Libraries: Gymnasium, PyTorch, Matplotlib, NumPy
-
-Project Type: Reinforcement Learning / AI Environment
