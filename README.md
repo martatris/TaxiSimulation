@@ -2,14 +2,6 @@
 🚕 Reinforcement Learning Taxi Simulation (DQN)
 ===========================================================
 
-Author: Triston Aloyssius Marta
-
-Language: Python 3.9
-
-Libraries: Gymnasium, PyTorch, Matplotlib, NumPy
-
-Project Type: Reinforcement Learning / AI Environment
-
 -----------------------------------------------------------
 OVERVIEW
 -----------------------------------------------------------
@@ -131,3 +123,10 @@ This project demonstrates:
  - Visualization of intelligent agent behavior
 
 
+Author: Triston Aloyssius Marta
+
+Language: Python 3.9
+
+Libraries: Gymnasium, PyTorch, Matplotlib, NumPy
+
+Project Type: Reinforcement Learning / AI Environment
