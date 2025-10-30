@@ -44,7 +44,7 @@ HOW TO RUN
 -----------------------------------------------------------
 
 1. Run the training script:
-   > python taxi_rl.py
+   > python taxi.py
 
 This will:
  - Train the DQN model over multiple episodes.
