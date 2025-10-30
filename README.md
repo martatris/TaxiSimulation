@@ -3,8 +3,11 @@
 ===========================================================
 
 Author: Triston Aloyssius Marta
+
 Language: Python 3.9
+
 Libraries: Gymnasium, PyTorch, Matplotlib, NumPy
+
 Project Type: Reinforcement Learning / AI Environment
 
 -----------------------------------------------------------
@@ -14,6 +17,7 @@ This project implements a reinforcement learning agent that learns
 how to operate a taxi service inside a grid world environment.
 
 The taxi must:
+
  - Navigate across a city grid.
  - Pick up multiple passengers.
  - Drop them off at their destinations.
