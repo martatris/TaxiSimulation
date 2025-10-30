@@ -39,17 +39,6 @@ FEATURES
 - Animation of the trained taxi behavior
 
 -----------------------------------------------------------
-PROJECT STRUCTURE
------------------------------------------------------------
-taxi_rl_project/
-│
-├── taxi_rl.py           -> Main training and environment script
-|
-├── README.txt           -> Project description (this file)
-|
-└── results/             -> (optional) folder for saving plots or videos
-
------------------------------------------------------------
 INSTALLATION
 -----------------------------------------------------------
 Make sure Python 3.8 or higher is installed.
