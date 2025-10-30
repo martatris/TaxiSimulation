@@ -44,7 +44,9 @@ PROJECT STRUCTURE
 taxi_rl_project/
 │
 ├── taxi_rl.py           -> Main training and environment script
+|
 ├── README.txt           -> Project description (this file)
+|
 └── results/             -> (optional) folder for saving plots or videos
 
 -----------------------------------------------------------
